@@ -1,0 +1,56 @@
+﻿Slide 1
+Title: Introducing Gemini Pro LLM Resume Screener
+
+    • Revolutionize your recruitment process with our innovative Resume Screener powered by Gemini Pro LLM, a large language model from Google AI.
+Slide 2
+Title: Methodology
+
+    • Leverages the power of Gemini Pro LLM, a large language model trained on a massive dataset of text and code.
+    • Parses resume text to extract key information such as skills, experience, and education.
+    • Matches extracted information to the requirements specified in the job description.
+    • Assigns a matching score to each resume based on the degree of alignment.
+Slide 3
+Title: Process Steps
+
+    • Upload job description and specify requirements.
+    • Upload a set of resumes for screening.
+    • The system automatically parses resumes and extracts relevant information.
+    • Gemini Pro LLM analyzes the extracted information and matches it to the job description.
+    • Matching scores are generated for each resume, indicating their degree of alignment.
+Slide 4
+Title: Security
+
+    • Secure data storage: All uploaded data is encrypted using industry-standard methods.
+    • Access control: User access is restricted based on designated roles and permissions.
+    • Regular security audits: Proactive identification and mitigation of potential vulnerabilities.
+Slide 5
+Title: Performance
+
+    • Efficiently processes large volumes of resumes, saving you valuable time.
+    • Quickly delivers results, enabling you to focus on qualified candidates sooner.
+    • Scales to accommodate the growing needs of your organization.
+Slide 6
+Title: Working Demo
+    • Witness the power of Gemini Pro LLM in action!
+    • Upload a sample resume and job description.
+    • Observe how the system extracts key information and calculates a matching score.
+Slide 7
+Title: Benefits
+    • Reduce time spent on manual resume screening.
+    • Identify the most qualified candidates quickly and efficiently.
+    • Improve the overall quality of your hiring decisions.
+Slide 8
+Title: Future Add-Ons
+    • Integration with applicant tracking systems (ATS) for a seamless workflow.
+    • Skills gap analysis to identify areas for candidate development.
+    • Automated interview scheduling to streamline the hiring process.
+Slide 9
+Title: Reliability
+    • Backed by Google AI's robust infrastructure.
+    • Highly accurate matching scores you can trust.
+    • System undergoes regular testing and maintenance to ensure reliability.
+Slide 10
+Title: Get Started Today!
+    • Streamline your recruitment process and make smarter hiring decisions.
+    • Contact us for a free trial of the Gemini Pro LLM Resume Screener.
+
